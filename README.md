@@ -13,5 +13,5 @@
 <p align="center">Please do DNI if 14-. I strongly dislike interacting with such young people.</p>
 <p align="center">All links are a W.I.P.</p>
 <p align="center">
-  <img width="1400" height="800" alt="Image" src="https://github.com/user-attachments/assets/b4466881-679f-4b24-ac1d-f0239f01a5b2" />
+  <img width="1400" height="800" alt="Image" src="https://github.com/user-attachments/assets/7a91f3d9-4710-4262-918f-2d8fd0f08542" />
 </p>
