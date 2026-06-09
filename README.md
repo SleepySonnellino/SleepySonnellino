@@ -1,5 +1,6 @@
 <h3 align="center">Mr.Sleepy.</h3>
 <img width="1400" height="400" alt="Image" src="https://github.com/user-attachments/assets/c892cf7c-2baa-4f84-992c-8905dc0c95ff" />
+<p align="center">BYI. I tend to go for periods of time without interacting with anyone. This includes unadding people and isolation, do not take it as me hating you or you did anything wrong, it is simply me needing time and space.</p>
 <p align="center">Sleepy / Don</p>
 <p align="center">Mafioso / Don Sonnellino Fictionkin.</p>
 <p align="center">17 y/o</p>
