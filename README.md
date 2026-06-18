@@ -5,7 +5,7 @@
 <p align="center">Mafioso / Don Sonnellino Fictionkin.</p>
 <p align="center">17 y/o</p>
 <p align="center">He / It</p>
-<p align="left">
+<p align="center">
   <img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/ce15201c-7f40-4c9d-b095-131a9a21be08" />
 </p>
 <p align="center">Please do not be afraid to interact.</p>
